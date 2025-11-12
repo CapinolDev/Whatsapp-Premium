@@ -1,1 +1,8 @@
 spew#/'Hewwo :3'/#
+
+mark#/loop/#
+cputime#/start/#
+sys#/'mpv --no-terminal --really-quiet whistle.mp3 &'/#
+ifgo#/start|>|1|_|loop/#
+sys#/'mpv --no-terminal --really-quiet whatsapp.mp3 &'/#
+sys#/forminvm main.fmn.fbc/#
