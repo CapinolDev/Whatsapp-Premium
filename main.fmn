@@ -1,8 +1,8 @@
-spew#/'Hewwo :3'/#
-
+spew#/'Whatsapp detector'/#
+create#/x/#
 mark#/loop/#
-cputime#/start/#
-sys#/'mpv --no-terminal --really-quiet whistle.mp3 &'/#
-ifgo#/start|>|1|_|loop/#
-sys#/'mpv --no-terminal --really-quiet whatsapp.mp3 &'/#
-sys#/forminvm main.fmn.fbc/#
+sys#/'aplay -q ~/WhatsappPremium/whistle.wav &'/#
+key#/x/#
+ifgo#/x|isnt|0|_|loop/#
+sys#/'aplay -q ~/WhatsappPremium/whistle.wav &'/#
+go#/loop/#
